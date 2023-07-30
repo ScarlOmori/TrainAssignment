@@ -1,0 +1,15 @@
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignment\bin\Debug\net7.0\TrainAssignment.exe
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignment\bin\Debug\net7.0\TrainAssignment.deps.json
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignment\bin\Debug\net7.0\TrainAssignment.runtimeconfig.json
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignment\bin\Debug\net7.0\TrainAssignment.dll
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignment\bin\Debug\net7.0\TrainAssignment.pdb
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignment\obj\Debug\net7.0\TrainAssignment.csproj.AssemblyReference.cache
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignment\obj\Debug\net7.0\TrainAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignment\obj\Debug\net7.0\TrainAssignment.AssemblyInfoInputs.cache
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignment\obj\Debug\net7.0\TrainAssignment.AssemblyInfo.cs
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignment\obj\Debug\net7.0\TrainAssignment.csproj.CoreCompileInputs.cache
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignment\obj\Debug\net7.0\TrainAssignment.dll
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignment\obj\Debug\net7.0\refint\TrainAssignment.dll
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignment\obj\Debug\net7.0\TrainAssignment.pdb
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignment\obj\Debug\net7.0\TrainAssignment.genruntimeconfig.cache
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignment\obj\Debug\net7.0\ref\TrainAssignment.dll

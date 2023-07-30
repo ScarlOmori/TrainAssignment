@@ -1,0 +1,15 @@
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignmentLibrary\bin\Debug\net7.0\TrainAssignmentLibrary.deps.json
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignmentLibrary\bin\Debug\net7.0\TrainAssignmentLibrary.dll
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignmentLibrary\bin\Debug\net7.0\TrainAssignmentLibrary.pdb
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignmentLibrary\obj\Debug\net7.0\TrainAssignmentLibrary.csproj.AssemblyReference.cache
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignmentLibrary\obj\Debug\net7.0\TrainAssignmentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignmentLibrary\obj\Debug\net7.0\TrainAssignmentLibrary.AssemblyInfoInputs.cache
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignmentLibrary\obj\Debug\net7.0\TrainAssignmentLibrary.AssemblyInfo.cs
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignmentLibrary\obj\Debug\net7.0\TrainAssignmentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignmentLibrary\obj\Debug\net7.0\TrainAssignmentLibrary.dll
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignmentLibrary\obj\Debug\net7.0\refint\TrainAssignmentLibrary.dll
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignmentLibrary\obj\Debug\net7.0\TrainAssignmentLibrary.pdb
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignmentLibrary\obj\Debug\net7.0\ref\TrainAssignmentLibrary.dll
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignmentLibrary\bin\Debug\net7.0\TrainAssignmentLibrary.exe
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignmentLibrary\bin\Debug\net7.0\TrainAssignmentLibrary.runtimeconfig.json
+C:\Users\megaf\source\repos\TrainAssignmentLibrary\TrainAssignmentLibrary\obj\Debug\net7.0\TrainAssignmentLibrary.genruntimeconfig.cache
